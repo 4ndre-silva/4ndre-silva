@@ -1,20 +1,18 @@
-<!-- Banner animado ou imagem no topo (opcional) -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=80ED99&center=true&vCenter=true&lines=Olá,+eu+sou+o+André+Luis!;Desenvolvedor+Front-End;Entusiasta+de+Tecnologia+e+UI/UX;Bem-vindo+ao+meu+GitHub+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=80ED99&center=true&vCenter=true&lines=Olá,+eu+sou+o+Dedé!;Desenvolvedor+Front-End;Especialista+em+WordPress;Apaixonado+por+UI/UX+e+códigos+noturnos;Bem-vindo+ao+meu+GitHub+👨‍💻" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-<p>
-Sou o <strong>André Silva</strong> 👋 — um desenvolvedor apaixonado por transformar ideias em interfaces modernas e funcionais! Tenho experiência com <strong>WordPress</strong> e foco nos estudos de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
-</p>
+Sou o **Dedé (André Luis)** — um desenvolvedor front-end apaixonado por transformar ideias em interfaces modernas, limpas e responsivas. Tenho experiência sólida com **WordPress**, e atualmente foco no aprimoramento das tecnologias **HTML5**, **CSS3** e **JavaScript**.
 
-- 🔭 Atualmente trabalho como front-end no Maraponga Mart Moda
-- 🎯 Objetivo: evoluir como dev e criar experiências de usuário incríveis
-- 💬 Gosto de aprender, compartilhar e contribuir em projetos criativos
-- 🧠 Estudando HTML, CSS e JavaScript e aprimorando meu domínio em responsividade
+- 🔭 Dev front-end no Maraponga Mart Moda  
+- 🧠 Estudando JavaScript e responsividade avançada  
+- 🎯 Buscando sempre entregar experiências incríveis em UI/UX  
+- ✨ Projetos pessoais que unem design, código e criatividade
 
 ---
 
@@ -29,6 +27,20 @@ Sou o <strong>André Silva</strong> 👋 — um desenvolvedor apaixonado por tra
 
 ---
 
+## 📌 Projetos em Destaque
+
+### 💻 Repositórios
+- 💕 [pedido-namoro](https://github.com/4ndre-silva/pedido-namoro)  
+- ❌ [jogo-da-velha-404](https://github.com/4ndre-silva/jogo-da-velha-404)  
+- 🧱 [tetris-world](https://github.com/4ndre-silva/tetris-world)  
+- 👤 [currículo online](https://github.com/4ndre-silva/curriculo-online)
+
+### 🌐 Sites em WordPress
+- 🛍️ [Maraponga Mart Moda](https://marapongamartmoda.com.br/)  
+- 👠 [Festival da Moda Fortaleza](https://fmf.marapongamartmoda.com.br/)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -38,7 +50,27 @@ Sou o <strong>André Silva</strong> 👋 — um desenvolvedor apaixonado por tra
 
 ---
 
-## 🌐 Me encontre por aqui
+## 📅 Linha do Tempo
+
+- 🧱 **Mar/2021** – Entrei como Dev WordPress Jr. na Mídia 12  
+- 👔 **Set/2021** – Comecei a atuar no Maraponga Mart Moda  
+- 🎨 **2022–2023** – Atuei em eventos como FMF, Ceará Summer Fashion e Salão da Moda Íntima  
+- ⚡ **2024** – Desenvolvendo projetos JS como jogos, sites e portfólio
+
+---
+
+## 🤓 Curiosidades
+
+- 🌙 Programo melhor de madrugada  
+- 🎧 Faço playlists únicas pra cada projeto  
+- 👻 Gosto de jogos de terror  
+- ⚽ Futebol sempre no sangue  
+- 🌀 Design e tipografia são minhas paixões  
+- ✍️ Desenvolvendo meu projeto pessoal **Naruto Legacy**
+
+---
+
+## 🌐 Me Encontre por Aqui
 
 <div align="center">
   <a href="https://www.instagram.com/4ndre_siilva/" target="_blank">
@@ -54,25 +86,11 @@ Sou o <strong>André Silva</strong> 👋 — um desenvolvedor apaixonado por tra
 
 ---
 
-## 🧠 Curiosidades
+## 🐍 Snake Game de Contribuições
 
-- 🎮 Viciado em jogos
-- 🎨 Gosto de design e tipografia
-- 📱 Amo interfaces limpas e intuitivas
-- ✍️ Desenvolvendo meu próprio portfólio interativo com HTML, CSS e JS
+![Snake animation](https://raw.githubusercontent.com/4ndre-silva/4ndre-silva/output/github-contribution-grid-snake.svg)
 
----
 
-## 🔥 Contador de Visitas
+```markdown
+![Snake animation](https://github.com/4ndre-silva/4ndre-silva/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4ndre-silva&style=for-the-badge" alt="4ndre-silva" />
-</p>
-
----
-
-## 🧑‍💻 Um pouco de animação pra deixar o clima dev
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
