@@ -86,11 +86,22 @@ Sou o **Dedé (André Luis)** — um desenvolvedor front-end apaixonado por tran
 
 ---
 
+## 🔥 Contador de Visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4ndre-silva&style=for-the-badge" alt="4ndre-silva" />
+</p>
+
+---
+
+## 🧑‍💻 Um pouco de animação pra deixar o clima dev
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
 ## 🐍 Snake Game de Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/4ndre-silva/4ndre-silva/output/github-contribution-grid-snake.svg)
-
-
-```markdown
 ![Snake animation](https://github.com/4ndre-silva/4ndre-silva/blob/output/github-contribution-grid-snake.svg)
 
