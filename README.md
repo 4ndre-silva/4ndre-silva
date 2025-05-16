@@ -1,13 +1,13 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=80ED99&center=true&vCenter=true&lines=Olá,+eu+sou+o+Dedé!;Desenvolvedor+Front-End;Especialista+em+WordPress;Apaixonado+por+UI/UX+e+códigos+noturnos;Bem-vindo+ao+meu+GitHub+👨‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=80ED99&center=true&vCenter=true&lines=Olá,+eu+sou+o+André!;Desenvolvedor+Front-End;Especialista+em+WordPress;Bem-vindo+ao+meu+GitHub+👨‍💻" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou o **Dedé (André Luis)** — um desenvolvedor front-end apaixonado por transformar ideias em interfaces modernas, limpas e responsivas. Tenho experiência sólida com **WordPress**, e atualmente foco no aprimoramento das tecnologias **HTML5**, **CSS3** e **JavaScript**.
+Sou o **André Silva** — um desenvolvedor front-end apaixonado por transformar ideias em interfaces modernas, limpas e responsivas. Tenho experiência sólida com **WordPress**, e atualmente foco no aprimoramento das tecnologias **HTML5**, **CSS3** e **JavaScript**.
 
 - 🔭 Dev front-end no Maraponga Mart Moda  
 - 🧠 Estudando JavaScript e responsividade avançada  
@@ -99,9 +99,3 @@ Sou o **Dedé (André Luis)** — um desenvolvedor front-end apaixonado por tran
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
----
-
-## 🐍 Snake Game de Contribuições
-![Snake animation](https://github.com/4ndre-silva/4ndre-silva/blob/output/github-contribution-grid-snake.svg)
-
