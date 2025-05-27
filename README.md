@@ -33,7 +33,7 @@ Sou o **André Silva** — um desenvolvedor front-end apaixonado por transformar
 - 💕 [pedido-namoro](https://github.com/4ndre-silva/pedido-namoro)  
 - ❌ [jogo-da-velha-404](https://github.com/4ndre-silva/jogo-da-velha-404)  
 - 🧱 [tetris-world](https://github.com/4ndre-silva/tetris-world)  
-- 👤 [currículo online](https://github.com/4ndre-silva/curriculo-online)
+- 👩‍❤️‍💋‍👨 [pedido-date](https://4ndre-silva.github.io/Pedido-de-Date/)
 
 ### 🌐 Sites em WordPress
 - 🛍️ [Maraponga Mart Moda](https://marapongamartmoda.com.br/)  
