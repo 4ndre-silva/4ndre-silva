@@ -41,15 +41,6 @@ Sou o **André Silva** — um desenvolvedor front-end apaixonado por transformar
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4ndre-silva&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndre-silva&layout=compact&theme=radical" />
-</div>
-
----
-
 ## 📅 Linha do Tempo
 
 - 🧱 **Mar/2021** – Entrei como Dev WordPress Jr. na Mídia 12  
