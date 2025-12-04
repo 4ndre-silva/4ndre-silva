@@ -27,13 +27,14 @@ Sou o **André Silva** — um desenvolvedor front-end apaixonado por transformar
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos em Destaque 
 
 ### 💻 Repositórios
 - 💕 [pedido-namoro](https://github.com/4ndre-silva/pedido-namoro)  
 - ❌ [jogo-da-velha-404](https://github.com/4ndre-silva/jogo-da-velha-404)  
 - 🧱 [tetris-world](https://github.com/4ndre-silva/tetris-world)  
 - 👩‍❤️‍💋‍👨 [pedido-date](https://4ndre-silva.github.io/Pedido-de-Date/)
+- 👥 [retrospectiva-amigos](https://4ndre-silva.github.io/retrospectiva-amigos/)
 
 ### 🌐 Sites em WordPress
 - 🛍️ [Maraponga Mart Moda](https://marapongamartmoda.com.br/)  
